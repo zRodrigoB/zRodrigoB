@@ -30,8 +30,8 @@ Sou apaixonado por games 🎮 e desenvolvimento de softwares💻, e faço disso 
 
 
 <div align = "left">
-<img height = "180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRodrigoB&show_icons=true&theme=bear&count_private=true"/>
-<img height = "180em"src="https://github-readme-stats.vercel.app/api?username=zRodrigoB&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRodrigoB&show_icons=true&theme=bear&count_private=true"/>
+<img height = "160em"src="https://github-readme-stats.vercel.app/api?username=zRodrigoB&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 
