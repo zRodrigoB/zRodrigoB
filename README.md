@@ -3,8 +3,8 @@
 # Olá, seja bem vindo(a) a meu GitHub.❤
 
 <div> 
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "https://www.linkedin.com/in/rodrigo-barros-67a7291b3/">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Sou apaixonado por games 🎮 e desenvolvimento de softwares💻, e faço disso minha profissão.
 
